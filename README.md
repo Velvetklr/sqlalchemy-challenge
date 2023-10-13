@@ -8,7 +8,7 @@
 ## Description
 Climate analysis of Hawaii
 
-![app_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fearthjustice.org%2Ffeature%2Fhawaii-youth-climate-lawsuit&psig=AOvVaw0WnpbfQ1tHFclGqXQsXSpd&ust=1697244191789000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDx9brl8YEDFQAAAAAdAAAAABAE)
+![Alt text](image.png)
 
 ## Table of Contents
 
