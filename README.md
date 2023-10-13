@@ -2,9 +2,6 @@
 
 ![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
 
--Website: [website](velvetklr@gmail.com)
-
-
 ## Description
 Climate analysis of Hawaii
 
